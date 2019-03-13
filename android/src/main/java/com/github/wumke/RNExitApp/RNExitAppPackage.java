@@ -23,6 +23,7 @@ public class RNExitAppPackage implements ReactPackage {
         return modules;
     }
 
+
     @Override
     public List<ViewManager> createViewManagers(
             ReactApplicationContext reactContext) {
